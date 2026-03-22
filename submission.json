@@ -1,0 +1,6 @@
+{
+  "prompt": "A long cathedral corridor or palace hallway photographed in deep perspective, shot from ground level looking toward a single warm light source at the far end. The light source — a chandelier or lantern — fully illuminates the arches and columns nearest to it at the far end. Moving toward the camera, each successive archway receives progressively less light, growing dimmer and dimmer. The three or four arches closest to the camera are almost entirely in darkness — the stone columns and vaulted ceilings are barely visible, only their silhouettes remain. The transition from full illumination to near-total darkness is the entire subject of the image. The architecture is grand and intact throughout — nothing is broken or collapsed. Only the light fails to reach. Shot as a long-exposure architectural photograph, slightly desaturated, stone and shadow. No people, no text, no labels, no overlays. Negative prompt: text, labels, diagrams, arrows, people, graphs, equations, modern furniture, bright colors, HDR, overexposed",
+  "model": "DALL-E 3 via ChatGPT",
+  "concept": "vanishing gradients",
+  "metaphor": "Light from a single source at the corridor's far end illuminates nearby arches fully but reaches the foreground arches in near-total darkness — each layer receiving exponentially less signal than the last."
+}
